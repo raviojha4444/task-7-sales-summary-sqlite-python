@@ -28,3 +28,21 @@ We perform basic data analysis and create a revenue-based bar chart using SQL qu
 SELECT product, SUM(quantity) AS total_qty, SUM(quantity * price) AS revenue 
 FROM sales 
 GROUP BY product;
+
+
+---
+
+## 🎯 Outcome of Task:
+By completing this task, I have:
+- ✅ Learned how to write and run basic SQL queries inside Python.
+- ✅ Practiced connecting Python with an SQLite database using `sqlite3`.
+- ✅ Performed simple data summaries (total quantity sold, total revenue).
+- ✅ Visualized sales data using bar charts and pie charts in Matplotlib.
+- ✅ Understood the power of integrating SQL with Python for quick data analysis.
+
+---
+
+✅ Visualized sales data using bar charts and pie charts in Matplotlib.
+
+✅ Understood the power of integrating SQL with Python for quick data analysis.
+
